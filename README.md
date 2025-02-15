@@ -26,13 +26,13 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
      git remote add origin https://github.com/seu-usuario/projeto-api.git
      git push -u origin master
      ```
- ## Endpoints utilizados:
-- Endpoint "/platforms": http://127.0.0.1:5000/platforms
+ ## Endpoints utilizados para teste:
+-  Endpoint Raiz ("/"): http://127.0.0.1:5000/
 - Endpoint "/report/<platform>": http://127.0.0.1:5000/report/meta_ads
 - Endpoint "/<platform>/resumo":  http://127.0.0.1:5000/meta_ads/resumo
 - Endpoint "/geral": http://127.0.0.1:5000/geral
 - Endpoint "/geral/resumo": http://127.0.0.1:5000/geral/resumo
--  Endpoint Raiz ("/"): http://127.0.0.1:5000/
+-  Endpoint "/platforms": http://127.0.0.1:5000/platforms
   
 ##  **Testando a API**:
    Após rodar a aplicação localmente com `python app.py`, você pode testar os endpoints em `http://localhost:5000/` usando um navegador.
