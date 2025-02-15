@@ -11,7 +11,7 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-api.git
+   git clone https://github.com/Fernanda-Dantas/Processo-Seletivo-Stract-2025
    cd projeto-api
 
    
@@ -26,7 +26,7 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
      git remote add origin https://github.com/seu-usuario/projeto-api.git
      git push -u origin master
      ```
-#### **Endpoints**:
+ ## Endpoints:
 - Endpoint Raiz ("/"): http://127.0.0.1:5000/
 - Endpoint "/platforms": http://127.0.0.1:5000/platforms
 - Endpoint "/report/<platform>": http://127.0.0.1:5000/report/meta_ads
@@ -34,10 +34,10 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
 - Endpoint "/geral": http://127.0.0.1:5000/geral
 - Endpoint "/geral/resumo": http://127.0.0.1:5000/geral/resumo
   
-####  **Testando a API**:
+##  **Testando a API**:
    Após rodar a aplicação localmente com `python app.py`, você pode testar os endpoints em `http://localhost:5000/` usando um navegador.
 
-####  **Publicação do Repositório**:
+##  **Publicação do Repositório**:
    Após concluir os passos acima, você terá um repositório público no GitHub contendo o código.
 
 ---
