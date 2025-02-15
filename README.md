@@ -15,7 +15,7 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
    cd projeto-api
 
    
-#### 6. **Repositório GitHub**:
+####  **Repositório GitHub**:
    - Crie um repositório público no GitHub.
    - Adicione seu código (o arquivo `app.py` e o `README.md`) no repositório.
    - Use os seguintes comandos para subir seu código no GitHub:
@@ -27,10 +27,10 @@ Este projeto é uma API simples desenvolvida em Python com Flask que interage co
      git push -u origin master
      ```
 
-#### 7. **Testando a API**:
+####  **Testando a API**:
    Após rodar a aplicação localmente com `python app.py`, você pode testar os endpoints em `http://localhost:5000/` usando um navegador.
 
-#### 8. **Publicação do Repositório**:
+####  **Publicação do Repositório**:
    Após concluir os passos acima, você terá um repositório público no GitHub contendo o código.
 
 ---
